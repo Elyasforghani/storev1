@@ -5,6 +5,7 @@ A production-ready e-commerce application built with Next.js, featuring a curate
 **Live Demo:** [storev1-jet.vercel.app](https://storev1-jet.vercel.app)
 
 ---
+<div class=" grid grid-cols2">
 <img width="1886" height="885" alt="Image" src="https://github.com/user-attachments/assets/efeaf69e-038d-48e5-93a8-7b69b1196ab2" />
 
 <img width="1877" height="847" alt="Image" src="https://github.com/user-attachments/assets/5275db38-665d-4f87-8ccb-ec912518004d" />
@@ -12,7 +13,7 @@ A production-ready e-commerce application built with Next.js, featuring a curate
 <img width="1900" height="912" alt="Image" src="https://github.com/user-attachments/assets/23c616f3-73a1-494b-aaea-0d89b165df73" />
 
 <img width="1885" height="894" alt="Image" src="https://github.com/user-attachments/assets/de1c7fea-9d11-4e30-8148-57849948a094" />
-
+</div>
 ## Overview
 
 ShopNext is a fully functional e-commerce store showcasing cosmetics, fragrances, furniture, and groceries. The application emphasizes seamless user experience with real-time cart management, product filtering, and dynamic pricing displays.
